@@ -12,11 +12,15 @@
   width: 100%;
   height: 100%;
   position: absolute;
-  top: 2rem;
+  top: -3px;
+  left: 0;
   text-align: center;
+  padding: 2rem 0 0 0;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  background: linear-gradient(transparent 50%, rgba(0,0,0,0.6) 100%);
+  border-radius: 1rem;
 }
 
 .details h1 {
