@@ -85,29 +85,13 @@ h1 {
 
 input, button, select {
   font-family: 'Lato';
-  padding: 0.5rem;
+  padding: rem;
 }
 
 input {
   border-radius: 0.5rem;
   border: solid 1px #999;
   outline: none;
-}
-
-button {
-	box-shadow:inset 0px 1px 0px 0px #dcecfb;
-	background:linear-gradient(to bottom, #8fbff0 5%, #81b1e1 100%);
-	background-color:#bddbfa;
-	border-radius:6px;
-	border:1px solid #4897e6;
-	display:inline-block;
-	cursor:pointer;
-	color:#ffffff;
-	/* font-family:Arial; */
-	font-size:15px;
-	font-weight:bold;
-	padding:6px 8px;
-	text-decoration:none;
 }
 
 .m-auto {
