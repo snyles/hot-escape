@@ -11,52 +11,9 @@ Trello board: https://trello.com/b/3qC2inUw/unit-3-group-project
 
 ## Screenshots
 
-### Landing Page
-
-![landing](https://i.imgur.com/aPsFn87.png)
-
-***
-
-### Login Page
-
-![login](https://i.imgur.com/JkGAJuC.png)
-
-***
-
-### Create Itinerary Page
-
-![createitin](https://i.imgur.com/fZrX1Qq.png)
-
-***
-
-### Flights Page
-
-![Flights](https://i.imgur.com/Iq7nPIg.png)
-
-***
-
-### Hotels Page
-
-![Hotels](https://i.imgur.com/o03jUyH.png)
-
-***
-
-### Attractions Page
-
-![attractions](https://i.imgur.com/A1vZza4.png)
-
-***
-
-### Rentals Page
-
-![rentals](https://i.imgur.com/zSiniEe.png)
-
-***
-
-### Chat Room
-
-![chatroom](https://i.imgur.com/G67k8n0.png)
-
+![Home Page](https://i.imgur.com/l07fAez.png)
+![Itineraries Page](https://i.imgur.com/fVi4ZkW.png)
+![Itinerary Details](https://i.imgur.com/3Ofy0Bi.png)
 
 ## App Description:
 
@@ -67,7 +24,6 @@ Each user receives an Itinerary page in which they can add to or modify all the 
 
 ## Technologies Used
 
-- Whimsical
 - [Skyscanner API](https://skyscanner.github.io/slate/#api-documentation)
 - React.js
 - Node.js
@@ -78,14 +34,7 @@ Each user receives an Itinerary page in which they can add to or modify all the 
 - JavaScript
 - HTML
 - CSS
-- Postman
-- GitHub
-- Git
 - Google Fonts
-- Visual Studio Code
-- Google Chrome DevTools
-- React Developer Tools
-- Bootstap
 
 ## Icebox Items
 
@@ -103,7 +52,3 @@ Each user receives an Itinerary page in which they can add to or modify all the 
 - Alejandra Lopez // [GitHub](https://github.com/alejandracampero), [LinkedIn](https://www.linkedin.com/in/alejandralopezcv/)
 - Janae Boersma // [GitHub](https://github.com/janae-b), [LinkedIn](https://www.linkedin.com/in/janaeboersma/)
 - Isaiah Silvani // [GitHub](https://github.com/isaiahsilvani), [LinkedIn](https://www.linkedin.com/in/isaiah-silvani/)
-
-## Credits
-
-- Background Pictures: [Unsplash](https://unsplash.com/)
